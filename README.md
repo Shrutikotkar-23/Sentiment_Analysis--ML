@@ -1,7 +1,6 @@
 # Sentiment-Analysis
 Sentiment Analysis Classifier with Machine Learning Models
 
-### Topics and Contents
 
 
 ### Environment
@@ -12,4 +11,4 @@ project on Google Colaboratory.
 
 
 ### Notes
-Information about the dataset used in the project is also in the notebook. I also put the dataset (in CSV format) in this repository.
+Information about the dataset used in the project is also in the notebook. 
